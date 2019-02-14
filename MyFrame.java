@@ -31,6 +31,7 @@ public class MyFrame extends JFrame implements KeyListener{
 			drawing.attack();
 			System.out.println("attack");
 		}
+	
 	}
 
 	public void keyReleased(KeyEvent e){
